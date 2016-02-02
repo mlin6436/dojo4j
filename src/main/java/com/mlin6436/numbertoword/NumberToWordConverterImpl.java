@@ -1,4 +1,4 @@
-package com.mlin6436.wp;
+package com.mlin6436.numbertoword;
 
 public class NumberToWordConverterImpl implements NumberToWordConverter {
     public static final String[] ZERO_TO_NINETEEN = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"};

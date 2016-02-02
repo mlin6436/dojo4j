@@ -1,8 +1,5 @@
-package com.mlin6436.wp.tests;
+package com.mlin6436.numbertoword;
 
-import com.mlin6436.wp.InvalidIntegerException;
-import com.mlin6436.wp.NumberToWordConverter;
-import com.mlin6436.wp.NumberToWordConverterImpl;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

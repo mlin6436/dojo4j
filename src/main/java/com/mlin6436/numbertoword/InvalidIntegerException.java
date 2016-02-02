@@ -1,4 +1,4 @@
-package com.mlin6436.wp;
+package com.mlin6436.numbertoword;
 
 public class InvalidIntegerException extends Exception {
     public InvalidIntegerException(String message) {
