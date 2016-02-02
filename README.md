@@ -1,3 +1,3 @@
 # Dojo4j
 
-This is a Dojo for Java.
+This is a Dojo.
